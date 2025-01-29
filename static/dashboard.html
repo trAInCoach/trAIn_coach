@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>trAIn Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <h1>trAIn AI Performance Metrics</h1>
+    <canvas id="accuracyChart"></canvas>
+
+    <script>
+        var ctx = document.getElementById('accuracyChart').getContext('2d');
+        var chart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: ['Epoch 1', 'Epoch 2', 'Epoch 3', 'Epoch 4', 'Epoch 5'],
+                datasets: [{
+                    label: 'Model Accuracy',
+                    data: [78.5, 82.3, 85.9, 89.1, 91.5],
+                    borderColor: 'rgba(75, 192, 192, 1)',
+                    borderWidth: 2
+                }]
+            }
+        });
+    </script>
+</body>
+</html>
