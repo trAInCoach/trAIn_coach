@@ -1,0 +1,7 @@
+[INFO] Epoch 1/10 - Loss: 0.5421 - Accuracy: 78.5%
+[INFO] Epoch 2/10 - Loss: 0.4982 - Accuracy: 82.3%
+[INFO] Epoch 3/10 - Loss: 0.4523 - Accuracy: 85.9%
+[INFO] Epoch 4/10 - Loss: 0.4031 - Accuracy: 89.1%
+[INFO] Epoch 5/10 - Loss: 0.3712 - Accuracy: 91.5%
+[INFO] Saving model to models/trAIn_model.h5
+[INFO] Training complete! ✅
