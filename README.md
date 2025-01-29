@@ -1,3 +1,5 @@
+![Build](https://github.com/yourusername/trAIn-AI/workflows/Build%20and%20Test/badge.svg)
+
 # trAIn - AI-Powered Fitness Coach
 **trAIn** is an AI-driven fitness coach that analyzes your physique, corrects form in real-time, and optimizes training based on biometric data. Smarter training starts here.
 
