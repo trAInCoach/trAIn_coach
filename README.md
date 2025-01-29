@@ -13,14 +13,14 @@
 trAIn uses machine learning models to analyze biometrics and provide personalized workout recommendations. The system continuously adapts to your body’s response.
 
 ## Installation ⚙️
-1. Clone the repo  
+1. Clone the repo
    ```
-   git clone https://github.com/yourusername/trAIn-AI.git
+    git clone https://github.com/yourusername/trAIn-AI.git
 2. Install dependencies
-  ```
+   ```
    pip install -r requirements.txt
   ```
 3. Run the AI model
-  ```  
+   ```  
    python train.py
   ```
