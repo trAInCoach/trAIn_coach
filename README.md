@@ -15,7 +15,7 @@ trAIn uses machine learning models to analyze biometrics and provide personalize
 ## Installation ⚙️
 1. Clone the repo
    ```
-    git clone https://github.com/yourusername/trAIn-AI.git
+    git clone https://github.com/trAInCoach/trAIn-AI.git
 2. Install dependencies
    ```
    pip install -r requirements.txt
